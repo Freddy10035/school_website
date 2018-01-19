@@ -1,0 +1,178 @@
+.a
+{
+	background-color: maroon;
+	color: white;
+	height: 100px;
+	clear: both;
+}
+hr
+{
+	height:10px;
+	background-color: indigo;
+	border: 1px solid indigo;
+	clear: both;
+}
+.btn1
+{
+	float: right;
+	margin-left: 15px;
+	margin-right: 15px;
+	border: 1px solid white;
+	border-radius: 10px;
+	font-size: 20px;
+	background-color: maroon;
+	color: white;
+}
+.btn2
+{
+	float: right;
+	border: 1px solid white;
+	border-radius: 10px;
+	font-size: 20px;
+	background-color: maroon;
+	color: white;
+}
+.btn3
+{
+	float: right;
+	margin-left: 15px;
+	margin-right: 15px;
+	border: 1px solid white;
+	border-radius: 10px;
+	font-size: 20px;
+	background-color: maroon;
+	color: white;
+}
+a
+{
+	text-decoration: none;
+	color: white;
+}
+img
+{
+	width: 60%;
+	height: 600px;
+	margin-right: 15%;
+	margin-left: 15%;
+	border: 1px solid white;
+	border-radius: 10px;
+}
+.p1
+{
+	background-color: pink;
+	border: 1px solid white;
+	border-radius: 10px;
+	color: indigo;
+	width: 32%;
+	float: right;
+}
+.p2
+{
+	background-color: pink;
+	border: 1px solid white;
+	border-radius: 10px;
+	color: indigo;
+	width: 32%;
+	float: right;
+	margin-left: 20px;
+	margin-right: 20px;
+
+}
+.p3
+{
+	background-color: pink;
+	border: 1px solid white;
+	border-radius: 10px;
+	color: indigo;
+	width: 32%;
+	float: right;
+}
+.footer
+{
+	background-color: black;
+	color: lightyellow;
+	text-align: center;
+	border: 1px solid black;
+	border-radius: 10px;
+	clear: both;
+	height: 50px;
+}
+	/*.imgp
+	{
+		width: 20%;
+		height: 150px;
+		float: right;
+		border: 1px solid black;
+		border-radius: 10px;
+	}
+	.p01,.p02,.p03,.p04
+	{
+		width: 20%;
+		height: 300px;
+		float: right;
+		border: 1px solid black;
+		border-radius: 10px;
+	}
+	.pmain
+	{
+		width: 100%;
+		height: 600px;
+		background-color: pink;
+		}*/
+		.boxes
+		{
+			width: 100%;
+			background-color: lightblue;
+			display: block;
+			margin-left: 100px;
+
+		}
+		.box
+		{
+			width: 20%;
+			display: inline;
+			float: left;
+			margin-right: 10px;
+			position: relative;
+		}
+		.box img
+		{
+			width: 100%;
+			height: 200px;
+			float: left;
+			margin: 5px;
+			border-bottom-left-radius: 50% 20%;
+			border-bottom-right-radius: 50% 20%;
+		}
+		.box p
+		{
+			width: 100%;
+			height: 200px;
+			display: inline-block;
+			position: absolute;
+			float: left;
+		}
+		.back_ground
+		{
+			background-image: url(resources/img0.jpg);
+		}
+		.fm1
+		{
+			background-color: grey;
+			border: 2px solid lightyellow;
+			width: 30%;
+			border-radius: 10px;
+			padding: 20px;
+			margin-left: 35%;
+			margin-right: 35%;
+			margin-top: 5%;
+			margin-bottom: 5%;
+		}
+		.head_ing
+		{
+			color: green;
+		}
+		.italics
+		{
+			color: black;
+		}
